@@ -26,3 +26,7 @@ th {
 	
 table {  border-collapse: collapse;  margin: auto;
 }
+
+body {
+	font-family: Verdana;
+	}
